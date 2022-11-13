@@ -1,3 +1,5 @@
+Ссылка на vercel: https://aviasales-app-git-main-irinagrekova.vercel.app/
+
 Aviasales App #1 - Верстка
 В данном курсе мы реализуем тестовое задание от Aviasales на связке react + redux
 
