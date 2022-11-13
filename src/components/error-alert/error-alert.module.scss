@@ -1,0 +1,26 @@
+.error-message{
+  display: flex;
+  align-items: center;
+  box-sizing: border-box;
+
+  background-color:#FFFFFF;
+  width: 100%;
+  border:#e14e5f  1px solid ;
+  border-radius: 5px;
+  padding: 10px 0;
+
+
+  span{
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    font-size: 12px;
+    line-height: 20px;
+  }
+  img{
+    padding-right: 10px;
+    padding-left: 10px;
+    width: 40px;
+    height:40px;
+  }
+}
